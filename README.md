@@ -155,4 +155,10 @@ How do we share info between components?
 
 ### Sub-Problem:
 * When user presses enter key we need to move search term up to the App
+
+
+### Solution:
+* We will create a way to pass a term from a child component to a parent component (see iPad Goodnotes app)
+
+
 # react-practice
