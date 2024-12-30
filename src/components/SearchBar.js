@@ -12,7 +12,7 @@ function SearchBar( {onSubmit} ) {
   const handleFormSubmit = (event) => {
     event.preventDefault();
     // console.log(event.target[0].value)
-    onSubmit('cars');
+    onSubmit(term);
 
     // NEVER REACH DIRECTLY INTO THE INPUT ELEMENT IN REACT
     // onSubmit(document.querySelector('input'.value))
