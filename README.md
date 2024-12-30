@@ -161,4 +161,6 @@ How do we share info between components?
 * We will create a way to pass a term from a child component to a parent component (see iPad Goodnotes app)
 
 
-# react-practice
+---
+
+
